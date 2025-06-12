@@ -10,11 +10,17 @@ Las pulsaciones del teclado de la víctima se registran en un archivo, el cual p
 
 ● Se instalan librerías esenciales como hashtag#pynput, hashtag#evdev, hashtag#pythonxlib y hashtag#six, necesarias para la captura de eventos del teclado. 
 
+<img src="00.jpg">
+
  2: Creación y ejecución del script
+
+ <img src="01.jpg">
  
 ●Se edita el archivo ".py", que contiene el código que escucha y registra cada pulsación del teclado. 
 
 ●Luego se ejecuta el script desde el entorno virtual, iniciando la captura.
+
+<img src="02.jpg">
 
 3: Registro de pulsaciones
 
@@ -29,6 +35,8 @@ Las pulsaciones del teclado de la víctima se registran en un archivo, el cual p
      ● ●[Key.backspace] — indica que se presionó la tecla retroceso (borrar)
  
      ● ●[Key.enter] — indica que se presionó la tecla enter
+
+ <img src="04.jpg">
 
 Este análisis se realizó en un entorno controlado con fines educativos y defensivos. 
 Laboratorio disponible en pdf: https://lnkd.in/dn73UqNk
